@@ -1,6 +1,5 @@
-#
 ![docker-logo.png](docker-logo.png)
-#
+<br><br>
 
 # Dockerized LEMP stack
 This repository contains a Dockerized LEMP (Linux, Nginx, MySQL, PHP) stack, designed to streamline your web development environment setup. With Docker, you can easily deploy and configure this LEMP stack on any server with minimal effort.
