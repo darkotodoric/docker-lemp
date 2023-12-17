@@ -12,6 +12,7 @@ services:
     example-php:
         container_name: example-php
         image: php:8.3-fpm
+        working_dir: /var/www/project
         volumes:
             - ./app:/var/www/project
 

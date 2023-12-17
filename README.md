@@ -31,12 +31,6 @@ Before you begin, ensure you have the following installed:
 
 4. Access your web application at http://localhost. You can also configure your server to serve this stack on a specific domain.
 
-## Configuration
-You can customize the LEMP stack configuration by editing the respective configuration files:
- - Nginx configuration: `./nginx/nginx.conf`
- - MySQL configuration: `./mysql/my.cnf`
- - PHP configuration: `./php/php.ini`
-
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests to improve this project.
 
