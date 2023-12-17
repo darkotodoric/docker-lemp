@@ -17,7 +17,7 @@ Before you begin, ensure you have the following installed:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone git@github.com:darkotodoric/docker-lemp.git
+   git clone https://github.com/darkotodoric/docker-lemp.git
 
 2. Navigate to the project directory:
 
