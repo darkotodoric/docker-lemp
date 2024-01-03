@@ -1,6 +1,6 @@
 <br>
 
-![docker-logo.png](docker-logo.png)
+![docker-logo.png](https://raw.githubusercontent.com/darkotodoric/docker-lemp/452ceb9/docker-logo.png)
 <br><br>
 
 # Dockerized LEMP stack
